@@ -1,5 +1,5 @@
 // AccelerateJS by xypalmer 
-var acctest = "moo"
+//https://github.com/xypalmer/AccelerateJS
 var acceleratejs = angular.module('acceleratejs', [])
 
 .controller('accelCtrlr', function($scope) {
@@ -37,7 +37,7 @@ var acceleratejs = angular.module('acceleratejs', [])
 
 
 // Content area for acceleratable divs
-.directive('parallaxed', function () {
+.directive('parallax', function () {
 	return {
 		restrict: 'E',
 		link: function (scope, element) {
