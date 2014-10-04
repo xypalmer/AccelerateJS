@@ -12,9 +12,11 @@ Build your website as you normally would, then place the elements that you would
 
 Like so:
 
-<blockquote>
-  <p><parallax>
-    <div accelerate class="exmaple"></div>
-  </parallax></p>
-</blockquote>
+
+  > <parallax>
+      <div accelerate class="exmaple"></div>
+   </parallax></p>
+
+
+
 
