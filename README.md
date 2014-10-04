@@ -6,5 +6,5 @@ Welcom to AccelerateJS, a simple solution to add parallax functionality to your 
 Setup
 =====
 
-AccelerateJS runs on AngularJS, so make sure you [grab it link](https://angularjs.org) and hook it up to your site. 
+AccelerateJS runs on AngularJS, so make sure you [grab it](https://angularjs.org) and hook it up to your site. 
 
