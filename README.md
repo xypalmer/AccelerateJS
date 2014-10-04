@@ -12,10 +12,9 @@ Build your website as you normally would, then place the elements that you would
 
 Like so:
 
-
   > <parallax>
       <div accelerate class="exmaple"></div>
-   </parallax></p>
+    </parallax></p>
 
 
 
