@@ -11,12 +11,13 @@ AccelerateJS runs on AngularJS, so make sure you [grab it](https://angularjs.org
 Build your website as you normally would, then place the elements that you would like to parallax into the parallax tag.
 
 Like so:
-
-  > <parallax>
-      <div accelerate class="exmaple"></div>
-    </parallax></p>
-
-
+```
+<parallax>
+  <div accelerate class="exampleclass"></div>
+  <div accelerate class="exampleclass"></div>
+  <div accelerate class="exampleclass"></div>
+</parallax>
+```
 
 
 test
