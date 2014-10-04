@@ -13,8 +13,8 @@ Build your website as you normally would, then place the elements that you would
 Like so:
 
 <blockquote>
-  <parallax>
+  <p><parallax>
     <div accelerate class="exmaple"></div>
-  </parallax>
+  </parallax></p>
 </blockquote>
 
