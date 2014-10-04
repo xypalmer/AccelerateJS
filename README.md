@@ -18,6 +18,10 @@ Like so:
   <div accelerate class="exampleclass3"></div>
 </parallax>
 ```
+To position yoru elements, you must use <code>margin-top</code> and <code>margin-left</code> in your CSS classes for AccelerateJS to function correctly. 
+
+The parallax element is placed automatically in the center of your website. If you would like to position your element 100px to the left of the center, use <code>margin-left: -100px;</code> in your CSS. <code>margin-left: 100px;</code> to move an element 100px to the right. 
+
 
 Troubleshooting Checklist
 -------------------------
